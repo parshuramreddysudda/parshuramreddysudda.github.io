@@ -1,2 +1,1 @@
-# parshuramreddysudda.github.io
-Portfolio
+permalink : /index.html
